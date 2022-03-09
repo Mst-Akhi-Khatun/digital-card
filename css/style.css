@@ -29,7 +29,7 @@
 .text-edit {
   color: rgb(39, 237, 39);
 }
-.font{
+.font {
   padding-left: 20px;
 }
 .main-feature {
@@ -41,10 +41,8 @@
   border-radius: 50px;
 }
 
+/* responsive part */
 @media only screen and (max-width: 500px) {
-  /* body {
-    background-color: red;
-  } */
   .card-part {
     height: 950px;
   }
